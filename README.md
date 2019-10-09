@@ -1,1 +1,1 @@
-# explorica
+# Explorica-Sass
